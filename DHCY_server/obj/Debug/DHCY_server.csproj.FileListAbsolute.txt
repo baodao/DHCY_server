@@ -1,0 +1,9 @@
+d:\myprogram\DHCY_server\DHCY_server\obj\Debug\ResolveAssemblyReference.cache
+d:\myprogram\DHCY_server\DHCY_server\obj\Debug\DHCY_server.Properties.Resources.resources
+d:\myprogram\DHCY_server\DHCY_server\obj\Debug\DHCY_server.csproj.GenerateResource.Cache
+d:\myprogram\DHCY_server\DHCY_server\bin\Debug\DHCY_server.exe
+d:\myprogram\DHCY_server\DHCY_server\bin\Debug\DHCY_server.pdb
+d:\myprogram\DHCY_server\DHCY_server\obj\Debug\DHCY_server.exe
+d:\myprogram\DHCY_server\DHCY_server\obj\Debug\DHCY_server.pdb
+d:\myprogram\DHCY_server\DHCY_server\obj\Debug\DHCY_server.Form1.resources
+d:\myprogram\DHCY_server\DHCY_server\bin\Debug\DHCY_server.exe.config
